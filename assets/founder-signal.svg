@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title description">
+  <title id="title">Buptrain — product-minded engineering</title>
+  <desc id="description">A midnight banner with slate grid lines and mint accents.</desc>
+  <rect width="1200" height="260" fill="#0b1220"/>
+  <g stroke="#243244" stroke-width="1" opacity="0.75">
+    <path d="M0 52H1200M0 104H1200M0 156H1200M0 208H1200"/>
+    <path d="M80 0V260M200 0V260M320 0V260M440 0V260M560 0V260M680 0V260M800 0V260M920 0V260M1040 0V260M1160 0V260"/>
+  </g>
+  <path d="M76 190H348L418 120H664L734 52H1124" fill="none" stroke="#71e5bf" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#71e5bf">
+    <circle cx="76" cy="190" r="7"/><circle cx="348" cy="190" r="7"/><circle cx="418" cy="120" r="7"/><circle cx="664" cy="120" r="7"/><circle cx="734" cy="52" r="7"/><circle cx="1124" cy="52" r="7"/>
+  </g>
+  <text x="76" y="95" fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" letter-spacing="1">BUPTRAIN</text>
+  <text x="78" y="132" fill="#a8b4c5" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="1.5">PRODUCT-MINDED ENGINEERING</text>
+</svg>
